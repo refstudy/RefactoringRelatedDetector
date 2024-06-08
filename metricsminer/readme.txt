@@ -1,0 +1,1 @@
+For windows user: git config --system core.longpaths true
