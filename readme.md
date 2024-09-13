@@ -10,7 +10,7 @@ Configuration (Java openjdk 17.0.8.1 2023-08-24 LTS was used):
 
 1- Clone the repository
 
-	git clone https://github.com/refstudy/ase2024refactoring.git
+	git clone https://github.com/refstudy/RefactoringRelatedDetector.git)
 
 2- Install the dependencies in both projects by running install in each root folder
 
